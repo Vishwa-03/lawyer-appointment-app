@@ -35,5 +35,5 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/Vishwa-03/lawyer-appointment-app.git)
    cd lawyer-appointment-app
