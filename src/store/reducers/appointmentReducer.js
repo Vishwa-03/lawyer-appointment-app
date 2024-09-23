@@ -1,4 +1,3 @@
-// src/store/reducers/appointmentReducer.js
 const initialState = [];
 
 const appointmentReducer = (state = initialState, action) => {
