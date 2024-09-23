@@ -1,4 +1,3 @@
-// src/store/reducers/lawyerReducer.js
 const initialState = [
     { id: 1, name: 'John Doe', specialty: 'Divorce Lawyer', availability: ['9:00', '9:30', '10:00'], cost: 100 },
     { id: 2, name: 'Jane Smith', specialty: 'Criminal Lawyer', availability: ['10:00', '10:30', '11:00'], cost: 150 }
